@@ -1,6 +1,6 @@
 # MilkCrate
 
-An elixir library will return an image url for a given search term or spotify uri.
+An elixir library that will return an image url for a given search term or spotify uri.
  
 ## Usage
 
