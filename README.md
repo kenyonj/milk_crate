@@ -1,6 +1,6 @@
 This Elixir library will return an image url for a given search term or spotify uri.
  
- ## Usage
+## Usage
 
 ```elixir
 MilkCrate.find_image("98 Degrees And Rising")
